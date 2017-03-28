@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AudioCollector</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="data_collect">Data Collection</string>
+    <string name="record">Record</string>
+    <string name="stop">Stop</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/atc/Dropbox/design/Lab1_Handout/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="accel">Accelerometer</string>
+    <string name="app_name">Lab1_Handout</string>
+    <string name="nullvalue">——.——</string>
+    <string name="status">Status</string>
+    <string name="steps">Steps</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
+    <string name="z">Z</string>
+</resources>

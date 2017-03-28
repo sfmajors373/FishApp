@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/atc/Dropbox/design/Lab2_DataCollector/app/libs/weka.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1d553332d3346a8efe1d52000973115cc5ef975d">
+        <dex dex="/Users/atc/Dropbox/design/Lab2_DataCollector/app/build/intermediates/pre-dexed/debug/weka-2f29cdf5ca83e602ed19d6f8ae90fb5439a5a2a0.jar" />
+    </item>
+
+</items>
